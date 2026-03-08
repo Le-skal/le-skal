@@ -1,6 +1,6 @@
 # Hey, I'm Raphael 👋
 
-Data Engineering & AI/ML student based in Paris. Currently apprenticing at [L'Agefi](https://www.lagefi.fr/) (Groupe Bey Medias), where I build data pipelines, NLP tools, and automation workflows for a financial media newsroom.
+Data Engineering & AI/ML student based in Paris. Currently apprenticing at [L'Agefi](https://www.agefi.fr/) (Groupe Bey Medias), where I build data pipelines, NLP tools, and automation workflows for a financial media newsroom.
 
 Studying Data & IA at ECE Paris, heading to EFREI Paris in September 2026 for a Mastère in Data Engineering & AI.
 
