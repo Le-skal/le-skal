@@ -1,15 +1,15 @@
 # Hey, I'm Raphael 👋
 
-Data Engineering & AI/ML student based in Paris. Currently apprenticing at [L'Agefi](https://www.agefi.fr/) (Groupe Bey Medias), where I build data pipelines, NLP tools, and automation workflows for a financial media newsroom.
+Data Engineering & AI/ML student based in Paris. Currently apprenticing at [Stellantis](https://www.stellantis.com/) in the Global Network Design & Innovation team, working on data for vehicle logistics.
 
-Studying Data & IA at ECE Paris, heading to EFREI Paris in September 2026 for a Mastère in Data Engineering & AI.
+Studying for a Mastère in Data Engineering & AI at EFREI Paris. Previously spent a year as a data & AI apprentice at [L'Agefi](https://www.agefi.fr/) (Groupe Bey Medias), building data pipelines, NLP tools and automation workflows for a financial media newsroom.
 
 I like building things that sit at the intersection of data, finance, and automation.
 
 ## What I work with
 
-Python · SQL · TypeScript · JavaScript · Java · Bash  
-GCP (BigQuery, Cloud Run) · n8n · Salesforce · Power BI  
+Python · SQL · PySpark · TypeScript · JavaScript · Java · Bash  
+Palantir Foundry · GCP (BigQuery, Cloud Run) · n8n · Salesforce · Power BI  
 Gemini & OpenAI APIs · React/Next.js · Docker
 
 ## Featured projects
